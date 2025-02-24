@@ -1,6 +1,6 @@
 tavily-python
 langchain
-langchain_nvidia_ai_endpoints
+langchain_openai
 langgraph
 python-dotenv
 openai
